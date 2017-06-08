@@ -1,2 +1,13 @@
-# understanding-orange
-深入理解orange
+
+# 深入理解orange
+
+
+这篇文章的契机, 其实只是我随意记录的笔记而已, 没有标题那么夸张, 严格说来只是个入门教程.
+
+阅读orange能更好的理解ngxin和openresty的原理, 能更清晰的认识网关, 对我来说也是一个知识的梳理.
+
+废话不多说, 希望这篇小小的文章, 能帮助到你.
+
+
+
+[阅读>>](./understanding-orange.md)
