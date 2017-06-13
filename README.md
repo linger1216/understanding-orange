@@ -9,6 +9,7 @@
 废话不多说, 希望这篇小小的文章, 能帮助到你.
 
 
+如果你看的还行, 请star下
 
 
 [深入理解orange>>](./understanding-orange.md)
