@@ -16,4 +16,4 @@
 
 [深入理解orange之Divide插件>>](./orange-divide.md)
 
-[深入理解Orange之插件全家桶>>](./orange-plugin.md)
+[深入理解orange之插件全家桶>>](./orange-plugin.md)
