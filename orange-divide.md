@@ -393,9 +393,7 @@ end
 **别慌关, 还有**
 
 
-
-1. upstream不像kong那样, 可以动态配置, orange需要在nginx启动前就写好.
-2. orange不支持post "Content-Type: application/x-www-form-urlencoded; charset=utf-8", 貌似收不到参数
+upstream不像kong那样, 可以动态配置, orange需要在nginx启动前就写好.
 
 
 
